@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+header{
+  background-color: black;
+  padding: 15px;
+}
+
+body{
+  background-color: aqua;
+}
+.logo-container{
+  display: flex;
+  justify-content: left;
+}
+.logo{
+  color: white;
+}
+
+
+.flowerlogo{
+  color: red;
+}
+.wel{
+  padding-right: 100px;
+  color: white;
+}
+.logo1{
+  color: red;
+}
+
+.sec{
+display: flex;
+justify-content: space-between;
+margin-bottom: 50px;
+}
+
+
+.imgcontainer img{
+  width: 250px;
+  height: 250px;
+  border: 10px double white;
+  border-radius:50px;
+}
+.nav{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.nav-container{
+display: flex;
+gap: 15px;
+de
+}
